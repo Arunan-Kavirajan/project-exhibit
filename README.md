@@ -34,7 +34,7 @@ A browser-based certificate automation platform that turns PDF templates and par
 
 **React · TypeScript · PDF Processing · Vite**
 
-🚀 [Live Demo](https://certiva-seven.vercel.app) · [View Project](./projects/certiva/)
+🚀 [Live Demo](https://certiva-seven.vercel.app) · [View Project](./projects/Certiva/)
 
 ---
 
