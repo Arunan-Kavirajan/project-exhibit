@@ -50,18 +50,30 @@ A public anonymous message board reimagined as a digital time capsule. Messages 
 
 ---
 
+### 04 · CHAT Club SRMIST
+
+**A digital home for a community of hackers and advanced technologists.**
+
+A cyberpunk-inspired club website built for CHAT at SRMIST, showcasing its Red Team, Blue Team, and Advanced Technology ecosystem through an interactive and responsive web experience.
+
+**Next.js · TypeScript · Tailwind CSS**
+
+⚡ [Live Site](https://chat-club-srm.vercel.app) · [View Project](./projects/chat-club/)
+
+---
+
 ## What I Like Building
 
 I'm interested in software that sits somewhere between **useful, unusual, and technically interesting**.
 
 That means I'm drawn to:
 
-* 🛠️ Tools that solve real problems
-* 🤖 AI-powered applications and agents
-* 🧠 Systems that make complex things easier to understand
-* 🎨 Interfaces that feel intentional rather than generic
-* 🧪 Experiments that explore ideas through software
-* ⚙️ Products where engineering decisions actually matter
+- 🛠️ Tools that solve real problems
+- 🤖 AI-powered applications and agents
+- 🧠 Systems that make complex things easier to understand
+- 🎨 Interfaces that feel intentional rather than generic
+- 🧪 Experiments that explore ideas through software
+- ⚙️ Products where engineering decisions actually matter
 
 I'm less interested in building something just to say I used a particular technology.
 
