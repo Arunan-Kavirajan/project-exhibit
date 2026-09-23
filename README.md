@@ -1,6 +1,6 @@
 <div align="center">
   
-# ❖ PROJECT EXHIBIT
+#  PROJECT EXHIBIT
 
 <p>
   <img src="https://img.shields.io/badge/Software%20Engineering-FF4136?style=for-the-badge&logo=codeforces&logoColor=white" />
