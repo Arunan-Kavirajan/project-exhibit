@@ -57,14 +57,15 @@ These projects are publicly available. Their repositories contain the actual sou
       <p>A browser-based certificate automation platform that turns PDF templates and participant spreadsheets into hundreds of personalized certificates entirely inside the browser.</p>
       <p>
         <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/License-Open_Source-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
-      <a href="./projects/certiva/"><strong>[ View Project ]</strong></a> &nbsp;·&nbsp; <a href="https://certiva-seven.vercel.app"><strong>[ Live Demo ]</strong></a>
+      <a href="https://github.com/Arunan-Kavirajan/Certiva"><strong>[ GitHub Repository ]</strong></a> &nbsp;·&nbsp; <a href="https://certiva-seven.vercel.app"><strong>[ Live Demo ]</strong></a>
     </td>
   </tr>
 </table>
