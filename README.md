@@ -2,7 +2,14 @@
   
 # ❖ PROJECT EXHIBIT
 
-**A collection of things I have built, broken, rebuilt, and shipped.**
+<p>
+  <img src="https://img.shields.io/badge/Software%20Engineering-FF4136?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-0074D9?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-2ECC40?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Product%20Design-B10DC9?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+### A collection of things I have built, broken, rebuilt, and shipped.
 
 *A living portfolio encompassing public open source tools and detailed case studies of private, deployed systems.*
 
