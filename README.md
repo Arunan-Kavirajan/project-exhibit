@@ -81,13 +81,21 @@ These projects are publicly available. Their repositories contain the actual sou
       <h3>KODA</h3>
       <p>An AI-powered multi-agent system for understanding unfamiliar codebases. Transforms a GitHub repository into an interactive understanding of its architecture, relationships, and security findings.</p>
       <p>
-        <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/License-Open_Source-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
       </p>
       <p>
-        <img src="https://img.shields.io/badge/AI_Agents-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Flow-FF0072?style=flat-square&logo=react&logoColor=white" />
       </p>
-      <p><em>Links will be available once initial development concludes.</em></p>
+      <p>
+        <strong>Architecture:</strong> Next.js and React frontend utilizing React Flow for an interactive, node-based codebase map. A Node.js backend executes deterministic parsing and file tree traversal, connecting through OpenRouter to AI models (like Qwen) for structured architectural analysis.
+      </p>
+      <a href="https://github.com/Arunan-Kavirajan/KODA"><strong>[ GitHub Repository ]</strong></a> &nbsp;·&nbsp; <a href="https://koda-github.vercel.app"><strong>[ Live Demo ]</strong></a>
     </td>
   </tr>
 </table>
