@@ -212,16 +212,23 @@ These projects are private. The exhibits below contain detailed case studies des
   <tr>
     <td width="100%">
       <h3>Pallavan MES</h3>
-      <p><em>[ Project details and case study currently being documented. ]</em></p>
+      <p>An experimental Offline-First Manufacturing Execution System (MES). A rigorous technical exploration of factory-floor software, focusing on offline-first sync engines, IndexedDB, and Role-Based Access Control in low-connectivity environments.</p>
       <p>
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
         <img src="https://img.shields.io/badge/Access-Private-red?style=flat-square" />
       </p>
-      <p><em>Documentation pending</em></p>
       <p>
-        <strong>Architecture:</strong> <em>[ Architecture details currently being documented. ]</em>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/IndexedDB-000000?style=flat-square" />
       </p>
-      <a href="./projects/pallavan-mes/"><strong>[ Read Case Study ]</strong></a>
+      <p>
+        <strong>Architecture:</strong> A robust offline-first sync architecture utilizing Dexie.js (IndexedDB) as the absolute source of truth for zero-latency local renders, paired with a custom background worker for two-way synchronization with Firebase Firestore when network connectivity is restored.
+      </p>
+      <a href="./projects/pallavan-mes/"><strong>[ Read Case Study ]</strong></a> &nbsp;·&nbsp; <a href="https://pallavan-mes.web.app"><strong>[ Live Site ]</strong></a>
     </td>
   </tr>
 </table>
