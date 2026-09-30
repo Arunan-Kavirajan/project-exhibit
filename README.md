@@ -147,6 +147,9 @@ These projects are private. The exhibits below contain detailed case studies des
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
       </p>
+      <p>
+        <strong>Architecture:</strong> A React SPA tightly integrated with a Supabase PostgreSQL backend. It leverages Framer Motion for complex constellation rendering and physics-based interactions, relying on Supabase for real-time anonymous message propagation and persistent storage.
+      </p>
       <a href="./projects/echoes/"><strong>[ Read Case Study ]</strong></a> &nbsp;·&nbsp; <a href="https://echoes-sandy.vercel.app"><strong>[ Live Site ]</strong></a>
     </td>
   </tr>
@@ -167,6 +170,9 @@ These projects are private. The exhibits below contain detailed case studies des
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <p>
+        <strong>Architecture:</strong> A statically generated Next.js application built with TypeScript for type safety. It uses Tailwind CSS for highly custom, responsive, and performant styling to deliver a heavily stylized cyberpunk aesthetic without sacrificing load times.
       </p>
       <a href="./projects/chat-club/"><strong>[ Read Case Study ]</strong></a> &nbsp;·&nbsp; <a href="https://chat-club-srm.vercel.app"><strong>[ Live Site ]</strong></a>
     </td>
@@ -192,6 +198,9 @@ These projects are private. The exhibits below contain detailed case studies des
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
         <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
       </p>
+      <p>
+        <strong>Architecture:</strong> A decentralized client-side computation model utilizing the native Web Audio API for procedural soundscapes. It synchronizes real-time peer telemetry and authentication through Firebase and Cloud Firestore while enforcing strict anti-cheat focus tracking locally.
+      </p>
       <a href="./projects/ascend/"><strong>[ Read Case Study ]</strong></a> &nbsp;·&nbsp; <a href="https://ascend-study.vercel.app/"><strong>[ Live Site ]</strong></a>
     </td>
   </tr>
@@ -209,6 +218,9 @@ These projects are private. The exhibits below contain detailed case studies des
         <img src="https://img.shields.io/badge/Access-Private-red?style=flat-square" />
       </p>
       <p><em>Documentation pending</em></p>
+      <p>
+        <strong>Architecture:</strong> <em>[ Architecture details currently being documented. ]</em>
+      </p>
       <a href="./projects/pallavan-mes/"><strong>[ Read Case Study ]</strong></a>
     </td>
   </tr>
