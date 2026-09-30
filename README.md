@@ -192,7 +192,7 @@ These projects are private. The exhibits below contain detailed case studies des
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
         <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
       </p>
-      <a href="./projects/ascend/"><strong>[ Read Case Study ]</strong></a> &nbsp;·&nbsp; <a href="https://ascend-study.vercel.app/"><strong>[ Live Demo ]</strong></a>
+      <a href="./projects/ascend/"><strong>[ Read Case Study ]</strong></a> &nbsp;·&nbsp; <a href="https://ascend-study.vercel.app/"><strong>[ Live Site ]</strong></a>
     </td>
   </tr>
 </table>
