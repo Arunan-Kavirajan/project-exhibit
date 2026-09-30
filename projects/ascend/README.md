@@ -7,7 +7,7 @@
 A distraction-free productivity environment uniting custom focus intervals with real-time peer telemetry and procedural ambience.
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Access-Private-red?style=flat-square" />
 </p>
 

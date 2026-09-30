@@ -163,7 +163,7 @@ These projects are private. The exhibits below contain detailed case studies des
       <h3>CHAT Club Site</h3>
       <p>A digital home for a community of hackers and advanced technologists. A cyberpunk-inspired club website built for CHAT at SRMIST.</p>
       <p>
-        <img src="https://img.shields.io/badge/Status-Deployed-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
         <img src="https://img.shields.io/badge/Access-Private-red?style=flat-square" />
       </p>
       <p>
@@ -187,7 +187,7 @@ These projects are private. The exhibits below contain detailed case studies des
       <h3>Ascend</h3>
       <p>Disciplined deep work through structured progression and social accountability. A distraction-free productivity environment uniting custom focus intervals with real-time peer telemetry and procedural ambience.</p>
       <p>
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/Access-Private-red?style=flat-square" />
       </p>
       <p>
