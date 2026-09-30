@@ -81,7 +81,7 @@ These projects are publicly available. Their repositories contain the actual sou
       <h3>KODA</h3>
       <p>An AI-powered multi-agent system for understanding unfamiliar codebases. Transforms a GitHub repository into an interactive understanding of its architecture, relationships, and security findings.</p>
       <p>
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
       </p>
       <p>
