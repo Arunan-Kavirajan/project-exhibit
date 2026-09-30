@@ -106,7 +106,7 @@ These projects are publicly available. Their repositories contain the actual sou
   <tr>
     <td width="100%">
       <h3>Android Billing App</h3>
-      <p>A Flutter-based billing and order management system for small food stalls and retail setups, featuring menu management and Bluetooth thermal printing.</p>
+      <p>A Flutter based billing and order management app built for small food stalls and similar retail setups. Handles the full order lifecycle, from placing and editing orders to serving, printing receipts, and viewing business reports.</p>
       <p>
         <img src="https://img.shields.io/badge/Status-Maintained-success?style=flat-square" />
         <img src="https://img.shields.io/badge/License-Open_Source-blue?style=flat-square" />
@@ -116,7 +116,10 @@ These projects are publicly available. Their repositories contain the actual sou
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <a href="./projects/android-billing-software/"><strong>[ View Project ]</strong></a>
+      <p>
+        <strong>Architecture:</strong> A native Flutter application utilizing <code>sqflite</code> for local data storage and <code>shared_preferences</code> for device state. Direct ESC/POS hardware integration is managed via <code>flutter_bluetooth_printer</code> to enable seamless 58mm thermal receipt printing without intermediary services.
+      </p>
+      <a href="https://github.com/Arunan-Kavirajan/Android-Billing-Software"><strong>[ GitHub Repository ]</strong></a>
     </td>
   </tr>
 </table>
