@@ -65,6 +65,9 @@ These projects are publicly available. Their repositories contain the actual sou
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
+      <p>
+        <strong>Architecture:</strong> Fully client-side React and TypeScript application. PDF template parsing, font injection, and spreadsheet data extraction are executed entirely in the browser, ensuring zero server-side processing and complete data privacy.
+      </p>
       <a href="https://github.com/Arunan-Kavirajan/Certiva"><strong>[ GitHub Repository ]</strong></a> &nbsp;·&nbsp; <a href="https://certiva-seven.vercel.app"><strong>[ Live Demo ]</strong></a>
     </td>
   </tr>
